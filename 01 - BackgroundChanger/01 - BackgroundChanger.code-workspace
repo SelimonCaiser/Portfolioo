@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../02 - Countdown"
+		},
+		{
+			"path": "../03 - RandomCat"
+		},
+		{
+			"path": "../04 - MovieApp"
+		},
+		{
+			"path": "../06 - Pagination"
+		},
+		{
+			"path": "../07 - PasswordGenerator"
+		},
+		{
+			"path": "../08 - GithubProfiles"
+		},
+		{
+			"path": "../09 - NotesApp"
+		},
+		{
+			"path": "../astro-cc-main"
+		},
+		{
+			"path": "../coolors-clone-master"
+		},
+		{
+			"path": "../shop"
+		},
+		{
+			"path": "../to-do-for-junior"
+		}
+	]
+}
